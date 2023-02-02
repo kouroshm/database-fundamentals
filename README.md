@@ -4,7 +4,7 @@ In this project I designed a database for a health clinic in order for them to a
 
 # Usage
 
-This database can be used in an health clinic in order to follow up and schedule their appointment with their patients. Also, you can use this database scheme in any health clinic. It is a preliminary database that other features can be built on top of it such as authentication of doctors and accessing the patients file. Further analysis can be find in the [AnalysisReport.pdf](AnalysisReport.pdf)
+This database can be used in a health clinic in order to follow up and schedule their appointment with their patients. Also, you can use this database scheme in any health clinic. It is a preliminary database that other features can be built on top of it such as authentication of doctors and accessing the patients file. Further analysis can be find in the [AnalysisReport.pdf](AnalysisReport.pdf)
 
 # Requirements
 
